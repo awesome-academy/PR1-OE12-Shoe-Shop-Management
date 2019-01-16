@@ -12,6 +12,21 @@ en:
       create_failed: "Create fail"
   admin:
     products:
+      product_form:
+        admin_page: "This page for admin"
+        new_product_title: "Add new Product"
+        enter_name: "Please enter product's name"
+        enter_price: "Please enter product's price"
+        upload_img: "Please upload product's images"
+        enter_manufacture: "Please upload product's manufacture"
+        enter_status: "Please enter product's status"
+        enter_description: "Please enter product's description"
+      new:
+        admin_page: "This page for admin"
+        new_product_title: "Add new Product"
+        save: "Save"
+        created_success: "Created success!"
+        created_fail: "Created fail!"
       index:
         admin_page: "This page for admin"
         allproduct: "All Product"

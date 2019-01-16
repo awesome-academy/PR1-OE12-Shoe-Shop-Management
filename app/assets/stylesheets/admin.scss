@@ -99,3 +99,100 @@ footer {
 .btn-add-book{
   float: right;
 }
+
+/*********************from*****************/
+#form {
+  display: block;
+  margin-bottom: 185px;
+  margin-top: 185px;
+  overflow: hidden;
+}
+
+.new-form {
+
+}
+
+.checkbox {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  span {
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  }
+}
+
+
+.new-form h2{
+  color: $dark-gambogeish-gray;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+
+.new-form form input {
+  background: $yellowish-white;
+  border: medium none;
+  color: $dark-gambogeish-gray;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  height: 40px;
+  margin-bottom: 10px;
+  outline: medium none;
+  padding-left: 10px;
+  width: 100%;
+}
+
+.new-form form span{
+  line-height: 25px;
+}
+
+.new-form form span input {
+  width: 15px;
+  float: left;
+  height: 15px;
+  margin-right: 5px;
+}
+
+.new-form form button {
+  margin-top: 23px;
+}
+
+.new-form form button {
+  background: $yellow-orange;
+  border: medium none;
+  border-radius: 0;
+  color: $white;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  padding: 6px 25px;
+}
+
+.new-form label{
+
+}
+
+.new-form label input {
+  border: medium none;
+  display: inline-block;
+  height: 0;
+  margin-bottom: 0;
+  outline: medium none;
+  padding-left: 0;
+}
+
+.or{
+  background: $yellow-orange;
+  border-radius: 40px;
+  color: $white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  height: 50px;
+  line-height: 50px;
+  margin-top: 75px;
+  text-align: center;
+  width: 50px;
+}
